@@ -1,3 +1,10 @@
+/**
+ * RequestDebug.js
+ * Custom Processor for ServiceNow to allow you to log HTTP Requests for debugging and troubleshooting
+ * GitHub: https://github.com/bryanbarnard/sn-requestdebug
+ * /
+
+//JSHINT Globals
 /*global Packages, g_response, gs, g_request, g_processor, GlideStringUtil*/
 
 /**
