@@ -53,7 +53,7 @@ requestMessage += '\n\n';
 requestMessage += '\nBODY:\n';
 requestMessage += st;
 
-var responseMessage = 'RQDBG: ' + id;
+var responseMessage = 'RQDBG:' + id;
 
 // Log Response
 gs.log(requestMessage, responseMessage);
